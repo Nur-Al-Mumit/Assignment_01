@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* First page  */
+.first-page{
+    background-image:url(images/donation6.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.493),rgba(128, 26, 26, 0.911));
+    background-image:url(images/donation6.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.first-page-content{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.first-heading-design{
+    font-size: 65px;
+    color: white;
+    margin: 0;
+    padding-top: 10%;
+    text-align: center;
+    
+}
+.first-link-button{
+    text-decoration: none;
+    color: white;
+    background-color: salmon;
+    border-radius: 5px;
+    margin-left: 40%;
+    padding: 10px 40px;
+    /* align-items: center; */
+}
