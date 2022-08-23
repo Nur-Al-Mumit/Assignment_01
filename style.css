@@ -103,7 +103,23 @@ body {
 #third-blog {
   background-color: #e6f3fe;
 }
-
+/* Extra Page */
+.extra_page{
+  display: flex;
+  margin-top: 100px;
+  margin-left: 50px;
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: 0% 50%;
+  background-size: 300px 300px;
+}
+.feedback-contant{
+  width: 40%;
+}
+.feedback-img img{
+  width: 400px;
+  height: 350px;
+}
 
 
 .Subscribe-page{
@@ -115,7 +131,7 @@ body {
   margin: 50px;
 }
 form{
-  background-color: antiquewhite;
+  background-color: #FFF4D6;
   text-align: center;
   padding: 80px;
   border-radius: 5px;
