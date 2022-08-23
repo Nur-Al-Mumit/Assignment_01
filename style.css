@@ -106,6 +106,40 @@ body {
 
 
 
+.Subscribe-page{
+  margin-top: 200px;
+}
+.Subscribe-heading{
+  font-size: 40px;
+  text-align: center;
+  margin: 50px;
+}
+form{
+  background-color: antiquewhite;
+  text-align: center;
+  padding: 80px;
+  border-radius: 5px;
+}
+form input{
+  background-color: #D9D9D9;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+form button{
+  background-color: #FF5959;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+}
+.form-container{
+
+  width: 50%;
+  margin: auto;
+}
+
+
 
 
 
