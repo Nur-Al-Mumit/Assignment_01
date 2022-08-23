@@ -79,6 +79,9 @@ body {
 .third-page {
   margin-top: 200px;
 }
+.donation-blog{
+  text-align: center;
+}
 .blogs-container {
   display: flex;
 }
@@ -87,9 +90,6 @@ body {
   margin: 2%;
   border-radius: 30px;
   padding: 20px;
-}
-.blogs img {
-  width: 50%;
 }
 .blogs img {
   width: 20%;
@@ -114,14 +114,16 @@ body {
   background-size: 300px 300px;
 }
 .feedback-contant{
-  width: 40%;
+  width: 50%;
+  margin-left: 50px;
 }
-.feedback-img img{
+.feedback-img{
   width: 400px;
   height: 350px;
+  border-radius: 5px;
 }
 
-
+/* Subscribe Page */
 .Subscribe-page{
   margin-top: 200px;
 }
@@ -154,15 +156,6 @@ form button{
   width: 50%;
   margin: auto;
 }
-
-
-
-
-
-
-
-
-
 
 
 
